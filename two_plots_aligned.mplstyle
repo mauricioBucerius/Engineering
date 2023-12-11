@@ -1,0 +1,10 @@
+lines.linewidth : 2.5
+lines.markersize: 11
+xtick.labelsize : 20
+ytick.labelsize : 20
+axes.linewidth : 2
+grid.linewidth : 2
+savefig.dpi : 500
+font.family:  sans-serif
+font.size : 20
+legend.fontsize : small
